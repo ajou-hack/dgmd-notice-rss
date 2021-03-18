@@ -86,7 +86,7 @@ fn compose_xml(notices: &[Notice]) -> String {
         "<rss version=\"2.0\">\n \
                   <channel>\n \
                   <title>Ajou University Department of Digital Media Notices</title>\n \
-                  <link>https://ajou.ac.kr/kr/ajou/notice.do</link>\n \
+                  <link>https://media.ajou.ac.kr/media/board/board01.jsp</link>\n \
                   <description>Recently published notices</description>\n \
                   <language>ko-kr</language>\n \
                   <lastBuildDate>{}</lastBuildDate>",
