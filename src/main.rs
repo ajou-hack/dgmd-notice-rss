@@ -118,6 +118,24 @@ fn compose_xml(notices: &[Notice]) -> String {
     format!("{}\n{}\n{}", header, items, footer)
 }
 
+fn compose_md(notices: &[Notice]) -> String {
+    let header = "# 미디어학과 최근 공지사항";
+
+    let items = notices
+        .iter()
+        .map(|notice| -> String {
+            let description = format!(
+                "[{}] - {} (~{})",
+                notice.category, notice.author, notice.expired_at
+            );
+            format!("* **[{}]({})**\n  {}", notice.title, notice.link, description)
+        })
+        .collect::<Vec<String>>()
+        .join("\n\n");
+
+    format!("{}\n\n{}", header, items)
+}
+
 fn write_last_index(last_index: u32) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
@@ -130,17 +148,25 @@ fn main() {
     const BASE_URL: &str = "https://media.ajou.ac.kr/media/board/board01.jsp";
     const OFFSET: u8 = 0;
 
-    let last_index = env::args().collect::<Vec<String>>()[1]
-        .parse::<u32>()
-        .unwrap();
+    let args = env::args().collect::<Vec<String>>();
+    let last_index = args[1].parse::<u32>().unwrap();
+    let mode = args[2]
+        .parse::<String>()
+        .unwrap_or_else(|_| "xml".to_string());
 
     let html = fetch_html(BASE_URL, OFFSET);
     let notices = parse_html(&html, BASE_URL);
     let latest_index = notices.first().unwrap().index;
 
     if last_index != latest_index {
+        if mode == *"xml" {
+            println!("{}", compose_xml(&notices));
+        } else if mode == *"md" {
+            println!("{}", compose_md(&notices));
+        } else {
+            eprintln!("unknown mode '{}'", mode);
+        }
         write_last_index(latest_index);
-        println!("{}", compose_xml(&notices));
     } else {
         eprintln!("new notices not found")
     }
