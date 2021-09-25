@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - gh-pages
   schedule:
     - cron: '0 0-9 * * *'
 
