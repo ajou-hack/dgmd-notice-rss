@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - gh-pages
   schedule:
     - cron: '0 0-9 * * *'
 
@@ -20,9 +19,7 @@ jobs:
           git config --global user.name 'ajou-hack-bot'
           git config --global user.email 'bot@ajou-hack.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/dgmd-notice-rss
-          git switch master
           cargo build --release
-          git switch gh-pages
           LAST_INDEX=$(cat ./last_index)
           XML=$(./target/release/dgmd-notice-rss $LAST_INDEX xml 2> /dev/null)
           MD=$(./target/release/dgmd-notice-rss $LAST_INDEX md 2> /dev/null)
@@ -35,5 +32,5 @@ jobs:
           cat ./target/release/last_index > ./last_index
           git add -A
           git commit -m "dist: $LAST_INDEX"
-          git push origin gh-pages
+          git push origin master
 
