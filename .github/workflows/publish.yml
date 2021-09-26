@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - gh-pages
   schedule:
     - cron: '0 0-9 * * *'
 
@@ -35,3 +36,4 @@ jobs:
           git add -A
           git commit -m "dist: $LAST_INDEX"
           git push origin gh-pages
+
