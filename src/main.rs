@@ -128,10 +128,25 @@ fn compose_md(notices: &[Notice]) -> String {
                 "[{}] - {} (~{})",
                 notice.category, notice.author, notice.expired_at
             );
-            format!("* **[{}]({})**\n  {}", notice.title, notice.link, description)
+            format!(
+                "* **[{}]({})**\n  {}",
+                notice.title, notice.link, description
+            )
         })
         .collect::<Vec<String>>()
         .join("\n\n");
+
+    format!("{}\n\n{}", header, items)
+}
+
+fn compose_commit_message(notices: &[Notice], last_index: u32) -> String {
+    let header = format!("dist: {}", last_index);
+
+    let items = notices
+        .iter()
+        .map(|notice| format!("* {}", notice.title))
+        .collect::<Vec<String>>()
+        .join("\n");
 
     format!("{}\n\n{}", header, items)
 }
@@ -163,6 +178,8 @@ fn main() {
             println!("{}", compose_xml(&notices));
         } else if mode == *"md" {
             println!("{}", compose_md(&notices));
+        } else if mode == *"cm" {
+            println!("{}", compose_commit_message(&notices, last_index));
         } else {
             eprintln!("unknown mode '{}'", mode);
         }

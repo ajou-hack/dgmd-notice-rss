@@ -23,7 +23,8 @@ jobs:
           LAST_INDEX=$(cat ./last_index)
           XML=$(./target/release/dgmd-notice-rss $LAST_INDEX xml 2> /dev/null)
           MD=$(./target/release/dgmd-notice-rss $LAST_INDEX md 2> /dev/null)
-          if [ -z "$XML" ] || [ -z "$MD" ]; then
+          CM=$(./target/release/dgmd-notice-rss $LAST_INDEX cm 2> /dev/null)
+          if [ -z "$XML" ] || [ -z "$MD" ] || [ -z "$CM" ]; then
           echo "new notices not found"
           exit 0
           fi
@@ -31,6 +32,6 @@ jobs:
           echo $MD > README.md
           cat ./target/release/last_index > ./last_index
           git add -A
-          git commit -m "dist: $LAST_INDEX"
+          git commit -m "$CM"
           git push origin master
 
