@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2021학년도 2학기 수업피드백 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224944&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2021-10-01)
+
 * **[2021-2 미디어학과 그래픽디자인 특강](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224931&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-01)
 
@@ -26,6 +29,3 @@
 
 * **[2021년 아주대학교 연구실 안전 공모전 공고 (~ 10 / 22)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224578&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-22)
-
-* **[[TA모집] 미디어학과 TA조교 모집 안내 (미디어애널리틱스)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224425&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2021-09-12)
