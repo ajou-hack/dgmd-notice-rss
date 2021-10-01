@@ -129,14 +129,14 @@ fn compose_md(notices: &[Notice]) -> String {
                 notice.category, notice.author, notice.expired_at
             );
             format!(
-                "* **[{}]({})**\n  {}",
+                r"* **[{}]({})**\n  {}",
                 notice.title, notice.link, description
             )
         })
         .collect::<Vec<String>>()
-        .join("\n\n");
+        .join(r"\n\n");
 
-    format!("{}\n\n{}", header, items)
+    format!(r"{}\n\n{}", header, items)
 }
 
 fn compose_commit_message(notices: &[Notice], last_index: u32) -> String {
@@ -174,15 +174,13 @@ fn main() {
     let latest_index = notices.first().unwrap().index;
 
     if last_index != latest_index {
-        if mode == *"xml" {
-            println!("{}", compose_xml(&notices));
-        } else if mode == *"md" {
-            println!("{}", compose_md(&notices));
-        } else if mode == *"cm" {
-            println!("{}", compose_commit_message(&notices, last_index));
-        } else {
-            eprintln!("unknown mode '{}'", mode);
+        match mode.as_str() {
+            "xml" => println!("{}", compose_xml(&notices)),
+            "md" => println!("{}", compose_md(&notices)),
+            "cm" => println!("{}", compose_commit_message(&notices, last_index)),
+            _ => eprintln!("unknown mode '{}'", mode),
         }
+
         write_last_index(latest_index);
     } else {
         eprintln!("new notices not found")

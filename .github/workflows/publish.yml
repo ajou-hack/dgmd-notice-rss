@@ -29,7 +29,7 @@ jobs:
           exit 0
           fi
           echo $XML > rss.xml
-          echo $MD > README.md
+          echo -e $MD > README.md
           cat ./target/release/last_index > ./last_index
           git add -A
           git commit -m "$CM"
