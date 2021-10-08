@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022학년도 전기 학석사연계과정생 모집 전형 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225051&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2021-10-28)
+
 * **[미디어학과 학생을 위한 &#x27;영화를 통한 심리건강 특강&#x27; 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225024&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-27)
 
@@ -26,6 +29,3 @@
 
 * **[2021-2학기 미디어학과 9월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224625&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 정보통신대학교학팀 (~2021-09-30)
-
-* **[[연장] 2021-2학기 미디어학과 튜티(Tutee) 모집 안내 (~ 9 / 15)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224611&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2021-09-15)
