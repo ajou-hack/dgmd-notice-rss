@@ -1,5 +1,11 @@
 # 미디어학과 최근 공지사항
 
+* **[2022학년도 전기 대학원 라이프미디어협동과정 신입생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225121&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [입학] - 정보통신대학교학팀 (~2022-01-18)
+
+* **[2022학년도 전기 대학원 미디어학과 신입생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225120&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [입학] - 정보통신대학교학팀 (~2022-01-18)
+
 * **[2022학년도 전기 학석사연계과정생 모집 전형 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225051&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-10-28)
 
@@ -23,9 +29,3 @@
 
 * **[제21회 대학생 중소기업 광고공모전 (~10 / 8)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224687&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-08)
-
-* **[2021-2학기 수업에 필요한 어도비 프로그램 이용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224667&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 정보통신대학교학팀 (~2021-09-15)
-
-* **[2021-2학기 미디어학과 9월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224625&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2021-09-30)
