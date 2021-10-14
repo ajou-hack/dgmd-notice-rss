@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[&#x27;2021 상상산업 청년마당&#x27; 행사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225181&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [행사] - 정보통신대학교학팀 (~2021-10-31)
+
 * **[2022학년도 전기 대학원 라이프미디어협동과정 신입생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225121&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [입학] - 정보통신대학교학팀 (~2022-01-18)
 
@@ -26,6 +29,3 @@
 
 * **[2021-2 미디어학과 스터디그룹 지원 안내 (~09/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224694&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 정보통신대학교학팀 (~2021-09-30)
-
-* **[제21회 대학생 중소기업 광고공모전 (~10 / 8)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224687&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [행사] - 정보통신대학교학팀 (~2021-10-08)
