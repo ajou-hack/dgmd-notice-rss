@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[산학협력원 B103 강의실 Wi-Fi 관련 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225245&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2022-02-28)
+
 * **[&#x27;2021 상상산업 청년마당&#x27; 행사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225181&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-31)
 
@@ -25,7 +28,4 @@
  [행사] - 정보통신대학교학팀 (~2021-10-01)
 
 * **[2021-2 미디어학과 튜터링 모집 조기마감 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224700&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2021-09-30)
-
-* **[2021-2 미디어학과 스터디그룹 지원 안내 (~09/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224694&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 정보통신대학교학팀 (~2021-09-30)
