@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[부산콘텐츠마켓2021 &quot;BCM아카데미&quot; 행사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225443&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2021-11-11)
+
 * **[첨단소프트웨어대학 신설 공청회 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225442&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-11-03)
 
@@ -26,6 +29,3 @@
 
 * **[미디어학과 학생을 위한 &#x27;영화를 통한 심리건강 특강&#x27; 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225024&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2021-10-27)
-
-* **[2021-2학기 미디어학과 10월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=224980&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2021-10-29)
