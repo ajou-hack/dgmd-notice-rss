@@ -1,6 +1,9 @@
 # 미디어학과 최근 공지사항
 
-* **[2021동계 미디어현장실습 참여회사 학생모집 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225702&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[2021-2학기 미디어학과 11월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2021-11-30)
+
+* **[2021동계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225705&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-11-12)
 
 * **[재직동문 취업멘토링 행사 (11/6, 14:00-16:00, Zoom)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225695&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -26,6 +29,3 @@
 
 * **[아주대학교 일반대학원 지식정보공학과 2022학년도 전기 정시모집 신입생 모집안내 ( 10. 15 화 ~ 29 목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225327&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-10-29)
-
-* **[산학협력원 B103 강의실 Wi-Fi 관련 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225245&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2022-02-28)
