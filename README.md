@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[제 2회 성평등 콘텐츠 공모전](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225774&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [비교과] - 정보통신대학교학팀 (~2021-11-30)
+
 * **[2021-2학기 미디어학과 11월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-11-30)
 
@@ -26,6 +29,3 @@
 
 * **[2021-2학기 &#x27;심리적 위기 및 마음돌봄&#x27; 특강 시행 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225352&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-10-28)
-
-* **[아주대학교 일반대학원 지식정보공학과 2022학년도 전기 정시모집 신입생 모집안내 ( 10. 15 화 ~ 29 목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225327&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2021-10-29)
