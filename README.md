@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2021-2학기 자기개발장학 신청 안내 (~12/16)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226381&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 정보통신대학교학팀 (~2021-12-16)
+
 * **[2021동계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226279&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-12-03)
 
@@ -26,6 +29,3 @@
 
 * **[제 2회 성평등 콘텐츠 공모전](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225774&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 정보통신대학교학팀 (~2021-11-30)
-
-* **[2021-2학기 미디어학과 11월 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2021-11-30)
