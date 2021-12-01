@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-1학기 미디어학과 장학 공지사항 (~12/31)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226399&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 정보통신대학교학팀 (~2021-12-31)
+
 * **[2021-2학기 자기개발장학 신청 안내 (~12/16)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226381&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [장학] - 정보통신대학교학팀 (~2021-12-16)
 
@@ -26,6 +29,3 @@
 
 * **[AR/DT을 활용하여 산업체 현장솔루션을 제공하고 있는 [버넥트] 인력 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225850&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [취업] - 정보통신대학교학팀 (~2021-11-30)
-
-* **[제 2회 성평등 콘텐츠 공모전](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225774&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2021-11-30)
