@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2021동계 미디어현장실습 회사정보 - 학생모집 안내 (6차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226498&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2021-12-10)
+
 * **[[삼성SDS] 2022년 동계 알고리즘 특강 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226420&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-12-12)
 
@@ -26,6 +29,3 @@
 
 * **[[미디어학과 UbiLife Lab] 유비라이프 랩, 대학원생 연구원 모집 공고 (VR, AR, Metaverse, Sensor Technology, AI, HCI, Games)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226010&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [입학] - 정보통신대학교학팀 (~2022-01-19)
-
-* **[2021동계 미디어현장실습 회사정보 - 학생모집 안내 (3차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=225873&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2021-11-19)
