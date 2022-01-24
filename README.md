@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[(주)디랩 코딩교육 인턴십 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227516&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2022-01-28)
+
 * **[2021학년도 어학시험 응시료 지원 조기마감 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227115&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2022-02-28)
 
@@ -26,6 +29,3 @@
 
 * **[[삼성SDS] 2022년 동계 알고리즘 특강 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226420&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2021-12-12)
-
-* **[2022-1학기 미디어학과 장학 공지사항 (~12/31)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=226399&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 정보통신대학교학팀 (~2021-12-31)
