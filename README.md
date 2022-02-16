@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[미디어학과] 2021학년도 전기, 2020학년도 후기 졸업(대상)자 학사가운 대여 시간 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227894&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [행사] - 정보통신대학교학팀 (~2022-02-17)
+
 * **[2021학년도 전기 (2022년 2월) 정보통신대학 학위수여식 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227884&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2022-02-23)
 
@@ -26,6 +29,3 @@
 
 * **[(주)디랩 코딩교육 인턴십 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227516&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2022-01-28)
-
-* **[2021학년도 어학시험 응시료 지원 조기마감 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227115&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2022-02-28)
