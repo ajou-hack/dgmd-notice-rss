@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[공지]2022-1학기 미디어현장실습 회사정보 - 학생모집 안내(3,4학년 대상)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227977&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 정보통신대학교학팀 (~2022-03-02)
+
 * **[(~2/25) 2022 상반기 &#x27;디지털 청년 고민해결단 온라인 멘토링&#x27; 멘티 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227898&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 정보통신대학교학팀 (~2022-02-25)
 
@@ -26,6 +29,3 @@
 
 * **[미디어학과 반응형 홈페이지 설문조사 결과](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227620&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2022-02-11)
-
-* **[[미디어학과] 2021학년도 전기 (2022년 2월) 졸업예정자 설문조사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227617&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 정보통신대학교학팀 (~2022-02-02)
