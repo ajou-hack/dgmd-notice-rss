@@ -1,6 +1,12 @@
 # 미디어학과 최근 공지사항
 
-* **[2022-1학기 미디어학과 자료구조(M015-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228246&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[2022-1학기 미디어학과 애니메이션이론(M021-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228251&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 정보통신대학교학팀 (~2022-03-18)
+
+* **[2022-1학기 미디어학과 영상처리(M019-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228249&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 정보통신대학교학팀 (~2022-03-18)
+
+* **[2022-1학기 미디어학과 자료구조(M015-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228248&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 정보통신대학교학팀 (~2022-03-18)
 
 * **[(재안내) 2022-1학기 3D그래픽디자인 청강생 오리엔테이션 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228243&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -23,9 +29,3 @@
 
 * **[[미디어학과] 2021학년도 전기, 2020학년도 후기 졸업(대상)자 학사가운 대여 시간 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227894&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [행사] - 정보통신대학교학팀 (~2022-02-17)
-
-* **[확률및통계1 (G022, G023) 수강신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227867&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 정보통신대학교학팀 (~2022-03-10)
-
-* **[[TA모집] 미디어학과 영상 기자재실 TA조교 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227807&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 정보통신대학교학팀 (~2022-02-18)
