@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022학년도 미디어학과 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228339&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2023-01-31)
+
 * **[2022-1학기 미디어학과 스토리텔링(M011-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228311&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-03-08)
 
@@ -26,6 +29,3 @@
 
 * **[(긴급) 2022-1학기 미디어현장실습 참여회사 학생모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227977&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 정보통신대학교학팀 (~2022-03-02)
-
-* **[(~2/25) 2022 상반기 &#x27;디지털 청년 고민해결단 온라인 멘토링&#x27; 멘티 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=227898&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 정보통신대학교학팀 (~2022-02-25)
