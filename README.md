@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[*연장-TA모집] 미디어학과 TA조교 모집 안내 (스토리텔링)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228488&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-03-11)
+
 * **[2022학년도 미디어학과 전공 소학회 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228480&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-03-25)
 
@@ -25,7 +28,4 @@
  [학사] - 정보통신대학교학팀 (~2022-03-18)
 
 * **[(재안내) 2022-1학기 3D그래픽디자인 청강생 오리엔테이션 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228243&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 정보통신대학교학팀 (~2022-03-08)
-
-* **[2022-1학기 수강정원 증원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228229&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 정보통신대학교학팀 (~2022-03-08)
