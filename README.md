@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[메타버스 게임개발 인턴 채용 공고 (Pond Studio)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228576&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-03-25)
+
 * **[2022-1학기 수업에 필요한 어도비 프로그램 이용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228556&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-25)
 
@@ -26,6 +29,3 @@
 
 * **[2022-1학기 미디어학과 스토리텔링(M011-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228311&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-03-08)
-
-* **[2022-1학기 미디어학과 애니메이션이론(M021-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228251&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 정보통신대학교학팀 (~2022-03-18)
