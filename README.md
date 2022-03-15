@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-1 튜터 장학생 모집 - 컴퓨터프로그래밍 및 실습](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228606&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-03-22)
+
 * **[메타버스 게임개발 인턴 채용 공고 (Pond Studio)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228576&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-25)
 
@@ -26,6 +29,3 @@
 
 * **[2022학년도 미디어학과 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228339&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2023-01-31)
-
-* **[2022-1학기 미디어학과 스토리텔링(M011-1) 수강 예정 학생 대상 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228311&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-03-08)
