@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[낙동강유역환경청 브랜드 및 정책 홍보 영상콘텐츠 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228688&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-17)
+
 * **[2022학년도 1학기 코로나19 확산에 따른 자가검진 키트 배부 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228654&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-02-28)
 
@@ -25,7 +28,4 @@
  [비교과] - 소프트웨어융합대학교학팀 (~2022-03-25)
 
 * **[[TA모집] 미디어학과 TA조교 모집 안내 (운영체제)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228356&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-03-08)
-
-* **[[TA모집] 미디어학과 TA조교 모집 안내 (아주희망, 스토리텔링)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228352&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-08)
