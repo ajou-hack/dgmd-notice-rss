@@ -1,6 +1,9 @@
 # 미디어학과 최근 공지사항
 
-* **[2022학년도 신편입생 지도교수 상담 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228739&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[2022학년도 1학기 수업피드백 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228760&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-04-12)
+
+* **[2022학년도 신편입생 등 지도교수 상담 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228739&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-31)
 
 * **[(주)디랩 코딩강사 전문가과정 인턴모집 건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228709&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -26,6 +29,3 @@
 
 * **[KTV ‘편성개방’ 사업 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228526&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-24)
-
-* **[[*연장-TA모집] 미디어학과 TA조교 모집 안내 (스토리텔링)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228488&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-03-11)
