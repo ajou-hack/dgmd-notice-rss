@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022학년도 미디어학과 영상 기자재 대여 및 반납 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228874&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-02-28)
+
 * **[미디어학과 인포그래픽스 특강(Zoom Online)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228852&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-31)
 
@@ -26,6 +29,3 @@
 
 * **[2022-1학기 수업에 필요한 어도비 프로그램 이용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228556&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-03-25)
-
-* **[2022년도 SW교육생 모집 - (사)한국소프트웨어기술진흥협회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228553&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-03-31)
