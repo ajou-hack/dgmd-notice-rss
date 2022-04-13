@@ -1,5 +1,11 @@
 # 미디어학과 최근 공지사항
 
+* **[2022년도 게임과학연구원 신규 연구원 채용 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229117&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [취업] - 소프트웨어융합대학교학팀 (~2022-04-13)
+
+* **[판교마을 PD 자원봉사자 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229116&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-05-11)
+
 * **[2022학년도 KT 창의혁신리더장학 장학생 선발 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229092&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-04-14)
 
@@ -23,9 +29,3 @@
 
 * **[(주)디랩 코딩강사 전문가과정 인턴모집 건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228709&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-04-10)
-
-* **[낙동강유역환경청 브랜드 및 정책 홍보 영상콘텐츠 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228688&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-17)
-
-* **[2022학년도 1학기 코로나19 확산에 따른 자가검진 키트 배부 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228654&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-02-28)
