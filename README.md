@@ -1,6 +1,12 @@
 # 미디어학과 최근 공지사항
 
-* **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229562&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[2022-1학기 산학협력원 419호 (애니메이션 실습실) 대여 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229611&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-06-30)
+
+* **[한국인터넷교육방송 온라인 강좌 프로그램 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229610&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-05-25)
+
+* **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229566&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-30)
 
 * LICENSE 제 3회 정보보안세미나 개최 및 등록안내(5/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229500&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -23,9 +29,3 @@
 
 * **[(재안내) (주)디랩 코딩강사 전문가과정 인턴모집 건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228942&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-04-10)
-
-* **[스튜디오실 영상편집실 사용 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228921&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [사무] - 소프트웨어융합대학교학팀 (~2022-06-30)
-
-* **[2022학년도 미디어학과 영상 기자재 대여 및 반납 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=228874&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-02-28)
