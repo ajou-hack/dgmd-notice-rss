@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[코딩 관련 소프트웨어학과 &#x27;Ajoupyterhub&#x27; 소학회 모집 공고문](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229730&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-17)
+
 * **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (3차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229669&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-30)
 
@@ -26,6 +29,3 @@
 
 * **[2022년도 게임과학연구원 신규 연구원 채용 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229117&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [취업] - 소프트웨어융합대학교학팀 (~2022-04-13)
-
-* **[판교마을 PD 자원봉사자 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229116&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-05-11)
