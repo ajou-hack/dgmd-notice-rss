@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[미디어학과 특강 공지 (6/7)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-07)
+
 * **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (4차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229756&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-03)
 
@@ -26,6 +29,3 @@
 
 * **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229566&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-30)
-
-* LICENSE 제 3회 정보보안세미나 개최 및 등록안내(5/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229500&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-05-30)
