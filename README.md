@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[대학일자리플러스센터] 미국IT웹 개발자 멘토링 : 찾아가는 해외취업 설명회 Step2](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229839&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-07)
+
 * **[(주)디랩 코딩강사 전문가과정 2기 교육생 모집 건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229816&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-26)
 
@@ -26,6 +29,3 @@
 
 * **[2022-1 AJOU SOFTCON 행사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229618&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학술] - 소프트웨어융합대학교학팀 (~2022-06-05)
-
-* **[2022-1학기 산학협력원 419호 (애니메이션 실습실) 대여 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229611&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-06-30)
