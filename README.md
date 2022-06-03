@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[구로 청년이룸] 케이스스터디 개발자반 프로그램 소개](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229877&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-19)
+
 * **[2022 메타버스 개발자 경진대회 (참가신청: ~&#x27;22.5.31(화)~6.28(화) / 온라인 접수)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229871&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-28)
 
@@ -26,6 +29,3 @@
 
 * **[2022-2학기 미디어학과 장학 공지사항 (~6/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229744&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-06-30)
-
-* **[코딩 관련 소프트웨어학과 &#x27;Ajoupyterhub&#x27; 소학회 모집 공고문](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229730&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-17)
