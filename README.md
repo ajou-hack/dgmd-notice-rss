@@ -1,9 +1,12 @@
 # 미디어학과 최근 공지사항
 
-* **[2022-1 AJOU SOFTCON : 4학년 프로젝트 온라인 전시회 공지 (이벤트 진행)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229893&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-10)
+* **[스마일게이트 대외활동 스마일커넥터 2기 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229932&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-20)
 
-* **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229881&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229916&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-18)
+
+* **[2022-1 AJOU SOFTCON : 4학년 프로젝트 온라인 전시회 공지 (이벤트 진행)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229893&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-10)
 
 * **[[구로 청년이룸] 케이스스터디 개발자반 프로그램 소개](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229877&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -26,6 +29,3 @@
 
 * **[미디어학과 특강 공지 (6/7)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-07)
-
-* **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (4차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229756&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-03)
