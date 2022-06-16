@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[한국양성평등교육진흥원] 2022 제6회 성평등콘텐츠대상 아이디어 공모전(~7/3)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230055&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-16)
+
 * **[2022하계 미디어현장실습 회사정보 - 학생모집 안내 (마지막)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230041&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-19)
 
@@ -26,6 +29,3 @@
 
 * **[[대학일자리플러스센터] 미국IT웹 개발자 멘토링 : 찾아가는 해외취업 설명회 Step2](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229839&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-07)
-
-* **[(주)디랩 코딩강사 전문가과정 2기 교육생 모집 건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229816&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-26)
