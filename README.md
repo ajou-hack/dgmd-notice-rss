@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[경기도경제과학진흥원에서 주관하는 [2022 경기창업허브 창업실전교육] 참가자 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230089&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-06-30)
+
 * **[아주대 클라우드 부트캠프 &lt;도커&amp;쿠버네티스 실무 Deep-dive 과정&gt; 참가자 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230073&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-07-25)
 
@@ -26,6 +29,3 @@
 
 * **[2022 메타버스 개발자 경진대회 (참가신청: ~&#x27;22.5.31(화)~6.28(화) / 온라인 접수)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229871&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-06-28)
-
-* **[2022-1학기 자기개발장학 신청 안내 (~06/17)﻿](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=229852&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-06-17)
