@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[국민외교 디자인단 5기 모집 공고(~7/22)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230526&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-07-22)
+
 * **[2022-2학기 소프트웨어융합대학 수강신청 제한 해제 과목 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230423&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-08-12)
 
@@ -26,6 +29,3 @@
 
 * **[2022-하계 미디어융합연구 수강신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230093&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-06-30)
-
-* **[경기도경제과학진흥원에서 주관하는 [2022 경기창업허브 창업실전교육] 참가자 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230089&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-06-30)
