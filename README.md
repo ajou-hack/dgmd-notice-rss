@@ -1,7 +1,10 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW중심대학] 2022년 2학기 코딩 트레이너 모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230727&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-08-13)
+
 * **[[SW중심대학] 2022 동계 A3 인턴십 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230705&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-08-01)
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-08-15)
 
 * **[2022-2학기 미디어현장실습 회사정보 - 학생모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230688&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-08-08)
@@ -26,6 +29,3 @@
 
 * **[데일리한국 인턴기자 모집 (6개월 현장실습)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230344&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-01)
-
-* **[(기간연장) 낙동강유역환경청 브랜드 및 정책 홍보 영상콘텐츠 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230291&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-07-08)
