@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-2학기 수강 정원 증원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230773&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-08-12)
+
 * **[[미디어학과] 자기주도진로탐색 이수 의무 폐지 안내 (2020~2022 교육과정)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230768&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-12-31)
 
@@ -26,6 +29,3 @@
 
 * **[국민외교 디자인단 5기 모집 공고(~7/22)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230526&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-07-22)
-
-* **[2022-2학기 소프트웨어융합대학 수강신청 제한 해제 과목 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230423&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-08-12)
