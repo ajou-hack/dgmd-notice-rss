@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[(~8/31(수)까지) 2022-1학기 연구실 안전교육 실시 안내(★필수)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230882&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-08-31)
+
 * **[2022-2학기 발상과시각화(M014) - 수강 정원 관련 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230867&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-08-31)
 
@@ -26,6 +29,3 @@
 
 * **[산학협력원 출입통제(8/6, 8/7) 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230675&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-08-07)
-
-* **[2022-2학기 미디어융합연구(M022) 수강신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230576&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-08-19)
