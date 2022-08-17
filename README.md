@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-2학기 발상과시각화(M014) 수강신청 정원 초과 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230982&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-08-31)
+
 * **[[제27회 부산국제영화제] 시네필 참가 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230889&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-06)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] 2022 동계 A3 인턴십 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230705&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-08-15)
-
-* **[2022-2학기 미디어현장실습 회사정보 - 학생모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230688&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-08-08)
