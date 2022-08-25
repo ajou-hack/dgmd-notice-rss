@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[「행궁동 관광 크리에이터 아카데미」모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231085&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-09-02)
+
 * **[아주대학교 홍보실 계약직 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231080&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-13)
 
@@ -26,6 +29,3 @@
 
 * **[[미디어학과] 자기주도진로탐색 이수 의무 폐지 안내 (2020~2022 교육과정)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230768&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-12-31)
-
-* **[2022-2학기 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230764&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-08-19)
