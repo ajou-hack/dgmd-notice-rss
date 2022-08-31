@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW중심대학] TOPCIT 제18회 정기평가 시행 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231164&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-09-14)
+
 * **[2022-2학기 미디어학과 개설 과목 수업 운영 방식 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231138&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-09-07)
 
@@ -26,6 +29,3 @@
 
 * **[2022-2학기 발상과시각화(M014) - 수강 정원 관련 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230867&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-08-31)
-
-* **[[미디어학과] 2021학년도 후기(2022년 08월) 졸업(대상)자 최종 설문조사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230816&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-08-16)
