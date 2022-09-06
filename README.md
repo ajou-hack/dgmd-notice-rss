@@ -1,5 +1,14 @@
 # 미디어학과 최근 공지사항
 
+* **[[TA모집] 2022-2학기 영상편집론 수업 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231262&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
+
+* **[[TA모집] 2022-2학기 영상제작미학 수업 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231261&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
+
+* **[[TA 모집] 미디어학과 실습실 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231259&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
+
 * **[미디어학과 학과명 변경 설문조사](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231235&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-08)
 
@@ -20,12 +29,3 @@
 
 * **[「행궁동 관광 크리에이터 아카데미」모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231085&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-02)
-
-* **[아주대학교 홍보실 계약직 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231080&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-09-13)
-
-* **[[TA모집] 미디어학과 기자재실 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231034&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-08-31)
-
-* **[2022-2학기 발상과시각화(M014) 수강신청 정원 초과 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=230982&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-08-31)
