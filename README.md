@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023-1학기 전과(전출) 기준 변경 사전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231297&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-11-30)
+
 * **[[TA모집] 2022-2학기 영상편집론 수업 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231262&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
 
@@ -26,6 +29,3 @@
 
 * **[대신러닝과 함께하는 AI NIGHT 행사 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231131&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학술] - 소프트웨어융합대학교학팀 (~2022-09-07)
-
-* **[「행궁동 관광 크리에이터 아카데미」모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231085&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-09-02)
