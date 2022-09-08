@@ -1,5 +1,11 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-2학기 수업에 필요한 어도비 프로그램 사용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231359&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-09-30)
+
+* **[고용노동부/미니컴퍼니C 10기 UIUX디자인 직무교육](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231354&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-09-12)
+
 * **[2022학년도 2학기 연구활동종사자 연구실 안전교육 안내★(필수!)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231340&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-30)
 
@@ -23,9 +29,3 @@
 
 * **[2022-2학기 발상과시각화(M014) - 강의실 변경 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231229&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-09-07)
-
-* **[2022-2학기 확률및통계1(M002) 수강 정원 증원 및 강의실 변경 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231211&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-09-07)
-
-* **[[SW중심대학] TOPCIT 제18회 정기평가 시행 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231164&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-09-14)
