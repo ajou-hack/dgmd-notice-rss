@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022-2학기 기자재실 환경 및 자산관리 학생 모집(~9/21일 까지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231435&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-09-22)
+
 * **[경기콘텐츠진흥원 메타버스 콘텐츠 제작 아카데미 참여학생 추가 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231396&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-13)
 
@@ -25,7 +28,4 @@
  [학사] - 소프트웨어융합대학교학팀 (~2022-11-30)
 
 * **[[TA모집] 2022-2학기 영상편집론 수업 TA조교 모집(완료)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231262&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
-
-* **[[TA모집] 2022-2학기 영상제작미학 수업 TA조교 모집 (완료)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231261&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-09-13)
