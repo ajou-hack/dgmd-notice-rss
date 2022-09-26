@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[아주허브(AJOU Hub) 홍보영상 제작 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231670&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
 * **[교내 및 야간 개방 공간 공지 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231661&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
 
@@ -26,6 +29,3 @@
 
 * **[경기콘텐츠진흥원 메타버스 콘텐츠 제작 아카데미 참여학생 추가 모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231396&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-09-13)
-
-* **[[TA모집] VR스튜디오 수업 TA조교 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231379&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-09-16)
