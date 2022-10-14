@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[람다256(주) 대졸신입 채용설명회 (10/31, 15:00-16:20)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231927&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
 * **[2022학년도 아주대학교 연구실 안전 공모전 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231837&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-08)
 
@@ -26,6 +29,3 @@
 
 * **[2022 한국 대학생 프로그래밍 경시대회 안내 (참가신청 ~ 09.25)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231565&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-09-25)
-
-* **[2022학년도 2학기 수업피드백 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231563&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-10-12)
