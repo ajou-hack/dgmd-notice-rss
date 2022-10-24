@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[미디어학과 특강 안내 (22.10.27.목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232054&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-10-24)
+
 * **[[재공지] 학장 추천 자기개발 장학 “아주 훌륭한 SW융합인의 도전” 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232018&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-12-31)
 
@@ -26,6 +29,3 @@
 
 * **[교내 및 야간 개방 공간 공지 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231661&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
-
-* **[SW중심대학사업단 유튜브 채널 개설 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231591&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-09-30)
