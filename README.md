@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232141&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-11-04)
+
 * **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (1차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232071&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
 
@@ -26,6 +29,3 @@
 
 * **[[논문 발표 지원] 2022 추계종합학술대회 및 대학생논문경진대회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-10-15)
-
-* **[아주허브(AJOU Hub) 홍보영상 제작 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231670&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
