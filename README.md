@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2022 청년과학기술인 일자리 박람회 개최](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232185&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-11-04)
+
 * **[루트컨설팅 채용 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232175&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-11)
 
@@ -26,6 +29,3 @@
 
 * **[2022학년도 아주대학교 연구실 안전 공모전 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231837&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-08)
-
-* **[SW 활용 지식 동영상 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231802&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-04)
