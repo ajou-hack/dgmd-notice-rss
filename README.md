@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[머니투데이방송] 제22회 MTN 대학생 중소기업 광고공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232214&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-11-28)
+
 * **[2022년 코나아이 대졸신입사원 공채](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232198&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-15)
 
@@ -26,6 +29,3 @@
 
 * **[2022 산업현장 여성R&amp;D인력 채용박람회 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231930&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-10-26)
-
-* **[람다256(주) 대졸신입 채용설명회 (10/31, 15:00-16:20)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=231927&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-10-31)
