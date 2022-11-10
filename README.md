@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[(주) 큐램 채용 설명회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232332&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-11-16)
+
 * **[2022학년도 미디어학과 요람 교과목 오표기 수정내용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232324&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-17)
 
@@ -26,6 +29,3 @@
 
 * **[루트컨설팅 채용 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232175&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-11-11)
-
-* **[2022 아주대학교 프로그래밍 경시대회 APC 오프라인 개최 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232163&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-11-14)
