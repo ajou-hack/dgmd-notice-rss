@@ -1,31 +1,31 @@
 # 미디어학과 최근 공지사항
 
-* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232485&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-29)
+* **[교수학습개발센터 MOCA 소개](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232970&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-03-01)
 
-* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232444&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-25)
+* **[&#x27;3D그래픽디자인&#x27;의 파란학기 전공과목대체 인정요건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232882&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-12-31)
 
-* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (4차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232355&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-18)
+* **[2022학년도 코딩테스트 준비 &#x27;SW역량테스트 대비 훈련과정&#x27;](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232867&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-01-06)
 
-* **[(주) 큐램 채용 설명회(간단한 점심과 사은품 제공!)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232332&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-16)
+* **[[SW중심대학] 2022년 동계 모각소(모여서 각자 소프트웨어하자) 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232828&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-01-06)
 
-* **[2022학년도 미디어학과 요람 교과목 오표기 수정내용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232324&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-17)
+* **[[SW중심대학] 2022 글로벌 게임 챌린지(GGC) 은상, 동상 수상](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232794&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-12-21)
 
-* **[[재공지] 누구나 지원 가능! 자기개발 장학 “아주 훌륭한 SW융합인의 도전”](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232321&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-12-31)
+* **[2022 라이프미디어협동과정 박사학위논문 공개발표(하효지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232777&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-12-12)
 
-* **[2022 동계 현장실습 온라인 설명회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232250&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-16)
+* **[2022학년도 미디어학과 미디어데이 개최 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232756&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [행사] - 소프트웨어융합대학교학팀 (~2022-12-23)
 
-* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (3차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232240&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-11)
+* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (마지막)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232742&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-12-16)
 
-* **[2022 UN장애인권리협약 공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232225&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-13)
+* **[2022-2학기 자기개발장학 신청 안내 (수정) (~12/21)﻿](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232719&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-12-21)
 
-* **[[머니투데이방송] 제22회 MTN 대학생 중소기업 광고공모전 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232214&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-11-28)
+* **[2023-1학기 미디어학과 장학 공지사항 (~12/30)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232697&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-12-30)
