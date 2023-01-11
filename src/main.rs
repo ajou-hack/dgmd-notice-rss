@@ -25,7 +25,7 @@ fn fetch_html(base_url: &str, offset: u8) -> String {
         .danger_accept_invalid_certs(true)
         .build()
         .unwrap()
-        .get(&url)
+        .get(url)
         .header("User-Agent", "Mozilla/5.0")
         .send()
         .unwrap();
@@ -36,9 +36,9 @@ fn fetch_html(base_url: &str, offset: u8) -> String {
 }
 
 fn parse_text(row: &ElementRef, selector: &Selector) -> String {
-    row.select(&selector)
+    row.select(selector)
         .flat_map(|datum| datum.text().collect::<Vec<_>>())
-        .map(|datum| datum.trim().replace("\n", "").replace("\t", ""))
+        .map(|datum| datum.trim().replace(['\n', '\t'], ""))
         .filter(|datum| !datum.is_empty())
         .collect::<Vec<_>>()
         .first()
@@ -47,7 +47,7 @@ fn parse_text(row: &ElementRef, selector: &Selector) -> String {
 }
 
 fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
-    row.select(&selector)
+    row.select(selector)
         .flat_map(|datum| datum.value().attr("href"))
         .collect::<Vec<_>>()
         .first()
@@ -139,8 +139,8 @@ fn compose_md(notices: &[Notice]) -> String {
     format!(r"{}\n\n{}", header, items)
 }
 
-fn compose_commit_message(notices: &[Notice], last_index: u32) -> String {
-    let header = format!("dist: {}", last_index);
+fn compose_commit_message(notices: &[Notice], new_count: u32) -> String {
+    let header = format!("dist: {}개의 새 공지사항", new_count);
 
     let items = notices
         .iter()
@@ -155,7 +155,7 @@ fn write_last_index(last_index: u32) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
     let path = format!("{}/last_index", current_dir.display());
-    let mut file = File::create(&path).unwrap();
+    let mut file = File::create(path).unwrap();
     file.write_all(last_index.to_string().as_bytes()).unwrap();
 }
 
@@ -177,7 +177,7 @@ fn main() {
         match mode.as_str() {
             "xml" => println!("{}", compose_xml(&notices)),
             "md" => println!("{}", compose_md(&notices)),
-            "cm" => println!("{}", compose_commit_message(&notices, last_index)),
+            "cm" => println!("{}", compose_commit_message(&notices, latest_index - last_index)),
             _ => eprintln!("unknown mode '{}'", mode),
         }
 
