@@ -1,5 +1,14 @@
 # 미디어학과 최근 공지사항
 
+* **[2023-1학기 미디어현장실습 학생모집 - (주)아이픽셀](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233441&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-02-01)
+
+* **[2023-1학기 미디어현장실습 회사정보 - 학생모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233440&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-03-31)
+
+* **[전공을 강화하고 융합 역량을 배양하는 마이크로 전공에 참여하세요](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233439&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-02-28)
+
 * **[대학생 서포터즈 모집-본오종합사회복지관](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233141&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-01-25)
 
@@ -20,12 +29,3 @@
 
 * **[2022 라이프미디어협동과정 박사학위논문 공개발표(하효지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232777&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-12-12)
-
-* **[2022학년도 미디어학과 미디어데이 개최 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232756&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-12-23)
-
-* **[2022동계 미디어현장실습 회사정보 - 학생모집 안내 (마지막)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232742&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-12-16)
-
-* **[2022-2학기 자기개발장학 신청 안내 (수정) (~12/21)﻿](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232719&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-12-21)
