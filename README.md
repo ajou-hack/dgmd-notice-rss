@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW융합교육원] 2023-1 코딩 트레이너 모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233448&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-02-17)
+
 * **[2023-1학기 미디어현장실습 학생모집 - (주)아이픽셀](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233441&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-02-01)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] 2022 글로벌 게임 챌린지(GGC) 은상, 동상 수상](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232794&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-12-21)
-
-* **[2022 라이프미디어협동과정 박사학위논문 공개발표(하효지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232777&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-12-12)
