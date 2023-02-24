@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[미디어학과 전공과목 과제 표절에 대한 조치 공지](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233914&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-03-03)
+
 * **[2023-1학기 미디어융합연구(M043) 수강신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233856&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-02-28)
 
@@ -26,6 +29,3 @@
 
 * **[&#x27;3D그래픽디자인&#x27;의 파란학기 전공과목대체 인정요건](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232882&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-12-31)
-
-* **[2022학년도 코딩테스트 준비 &#x27;SW역량테스트 대비 훈련과정&#x27;](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232867&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-01-06)
