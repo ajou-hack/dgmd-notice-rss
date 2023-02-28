@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[1학년 신입생을 위한 &quot;창의미디어&quot; 교과목 소개](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233955&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-03-09)
+
 * **[[학사] 신입생 대상 설문조사 협조요청](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233927&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-03-13)
 
@@ -26,6 +29,3 @@
 
 * **[대학생 서포터즈 모집-본오종합사회복지관](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233141&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-01-25)
-
-* **[교수학습개발센터 MOCA 소개](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=232970&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-03-01)
