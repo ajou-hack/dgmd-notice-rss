@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023학년도 디지털미디어학과 전공 소학회 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234084&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2023-03-19)
+
 * **[디지털미디어학과 학과명 변경 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233995&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-03-31)
 
@@ -26,6 +29,3 @@
 
 * **[2023-1학기 미디어현장실습 회사정보 - 학생모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233440&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-03-31)
-
-* **[전공을 강화하고 융합 역량을 배양하는 마이크로 전공에 참여하세요](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233439&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-02-28)
