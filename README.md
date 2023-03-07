@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023학년도 1학기 인문대학 데이터분석기초 &amp; 데이터인문개론 수업 TA 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234093&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [장학] - 소프트웨어융합대학교학팀 (~2023-03-15)
+
 * **[2023학년도 디지털미디어학과 전공 소학회 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234084&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2023-03-19)
 
@@ -26,6 +29,3 @@
 
 * **[2023-1학기 미디어현장실습 학생모집 - (주)아이픽셀](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233441&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-02-01)
-
-* **[2023-1학기 미디어현장실습 회사정보 - 학생모집 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=233440&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-03-31)
