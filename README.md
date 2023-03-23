@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW중심대학] TOPCIT 제19회 정기평가 시행 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234403&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-04-15)
+
 * **[산학협력원 419호 (애니메이션 실습실) 대여 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234388&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2024-02-29)
 
@@ -26,6 +29,3 @@
 
 * **[2023학년도 디지털미디어학과 어학시험 응시료 지원 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234130&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [비교과] - 소프트웨어융합대학교학팀 (~2024-01-31)
-
-* **[디지털미디어학과 학부 수업 운영 TA조교 모집(모집완료)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234121&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2023-03-10)
