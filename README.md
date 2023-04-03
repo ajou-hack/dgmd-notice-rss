@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023년 미디어 스킬업 캠프 2기 교육생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234513&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-04-15)
+
 * **[[학사] 2023-1학기 수업 피드백 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234419&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-04-12)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234173&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-03-26)
-
-* **[2023학년도 소프트웨어융합대학 하계 IT해외현장연수 모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234131&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-03-22)
