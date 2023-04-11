@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023년 K-SW스퀘어 가을 프로그램 교육생 선발 안내(SW중심대학)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234628&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-04-28)
+
 * **[[SW중심대학] IT인재 전문가와 함께하는 진로 특강](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234595&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-04-17)
 
@@ -26,6 +29,3 @@
 
 * **[2023학년도 디지털미디어학과 영상 기자재 대여 및 반납 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234329&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2024-02-29)
-
-* **[4/12(수) 개교기념일 정상 수업 안내 및 대체 휴일 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234297&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-06-06)
