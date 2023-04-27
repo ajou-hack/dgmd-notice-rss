@@ -1,6 +1,9 @@
 # 미디어학과 최근 공지사항
 
-* **[디지털미디어학과 디자인 특강](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+* **[&#x27;제9회 신한 29초영화제&#x27;가 개최되었습니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234846&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-05-31)
+
+* **[디지털미디어학과 디자인 특강 안내 (23.04.27. 목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-04-27)
 
 * **[(산학원 204호) AI X Metaverse 실습실 오픈 및 이용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234746&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
@@ -26,6 +29,3 @@
 
 * **[대학생 서포터즈 모집-본오종합사회복지관](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234545&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-31)
-
-* **[2023년 미디어 스킬업 캠프 2기 교육생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234513&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-04-15)
