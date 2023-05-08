@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023 하계 현장실습 학생 온라인설명회 안내(05.10.(수) 11시)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235022&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-05-10)
+
 * **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (2차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235002&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-11)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] IT인재 전문가와 함께하는 진로 특강](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234595&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-04-17)
-
-* **[23년도 아주대학교 예비군연대 훈련 계획 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234592&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-05-12)
