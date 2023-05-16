@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235202&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-05-25)
+
 * **[성장형 오픈 이노베이션「제6기 청년 에너지드림 리그」참여 홍보(5.15~6.2)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235178&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-02)
 
@@ -26,6 +29,3 @@
 
 * **[디지털미디어학과 디자인 특강 안내 (23.04.27. 목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-04-27)
-
-* **[(산학원 204호) AI X Metaverse 실습실 오픈 및 이용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234746&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2024-02-29)
