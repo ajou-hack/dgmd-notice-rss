@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[제1회 양자(Quantum) 영상 콘텐츠 공모전 안내(접수기간 5.31(수) 13시까지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235228&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-05-31)
+
 * **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235202&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-25)
 
@@ -26,6 +29,3 @@
 
 * **[&#x27;제9회 신한 29초영화제&#x27;가 개최되었습니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234846&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-31)
-
-* **[디지털미디어학과 디자인 특강 안내 (23.04.27. 목)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=234789&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-04-27)
