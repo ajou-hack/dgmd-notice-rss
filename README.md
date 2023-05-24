@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW중심대학] 2023 하계 모각소(모여서 각자 소프트웨어하자) 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235320&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-06-16)
+
 * **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (5차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235317&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-30)
 
@@ -26,6 +29,3 @@
 
 * **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (3차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235145&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-05-19)
-
-* **[산학협력원 210호 외벽 디자인 공모전(~5.31)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235135&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-05-31)
