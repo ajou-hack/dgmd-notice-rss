@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[메타버스 개발자 경진대회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235407&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-06-15)
+
 * **[융복합의료제품 촉진지원센터에서 함께 일할 학생연구원을 모집합니다.](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235396&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-30)
 
@@ -26,6 +29,3 @@
 
 * **[제6회 팩트체킹 공모전](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235267&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-09-24)
-
-* **[[홍보]유네스코 주관 2023 세계문화예술교육 주간 온라인 캠페인 #당신의 예술로그인](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235258&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-05-26)
