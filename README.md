@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[(주)라쏨 대졸신입 채용공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235454&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [취업] - 소프트웨어융합대학교학팀 (~2023-06-12)
+
 * **[메타버스 개발자 경진대회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235407&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-15)
 
@@ -26,6 +29,3 @@
 
 * **[[교육부] 2023년 대학 진로교육 현황조사 실시 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235268&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-23)
-
-* **[제6회 팩트체킹 공모전](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235267&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-24)
