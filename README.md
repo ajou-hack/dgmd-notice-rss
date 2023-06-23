@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[경기콘텐츠진흥원X(주)듀코젠]문화기술 아카데미 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235733&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-06-28)
+
 * **[[경기콘텐츠진흥원] 2023년 문화기술 아카데미 전문가 과정 교육생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235649&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-28)
 
@@ -26,6 +29,3 @@
 
 * **[융복합의료제품 촉진지원센터에서 함께 일할 학생연구원을 모집합니다.](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235396&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-30)
-
-* **[2023-1학기 자기개발장학 신청 안내 (수정) (~6/12)﻿](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235393&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [장학] - 소프트웨어융합대학교학팀 (~2023-06-12)
