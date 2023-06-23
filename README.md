@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[스마일게이트 콘텐츠에디터] 스마일커넥터 3기 모집 (~6/26 17시)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235740&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-06-26)
+
 * **[[2023 게임산업 인재 육성 프로그램 교육생 모집]](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235736&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-28)
 
@@ -26,6 +29,3 @@
 
 * **[(주)라쏨 대졸신입 채용공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235454&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [취업] - 소프트웨어융합대학교학팀 (~2023-06-12)
-
-* **[메타버스 개발자 경진대회](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235407&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-06-15)
