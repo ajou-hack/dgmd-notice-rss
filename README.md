@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[&#x27;국립생태원 29초영화제&#x27;가 진행 중입니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-07-18)
+
 * **[[스마일게이트 콘텐츠에디터] 스마일커넥터 3기 모집 (~6/26 17시)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235740&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-26)
 
@@ -26,6 +29,3 @@
 
 * **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (7차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235463&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-09)
-
-* **[(주)라쏨 대졸신입 채용공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235454&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [취업] - 소프트웨어융합대학교학팀 (~2023-06-12)
