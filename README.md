@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[&#x27;제10회 박카스 29초영화제&#x27;가 개최되었습니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235945&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-08-17)
+
 * **[&#x27;국립생태원 29초영화제&#x27;가 진행 중입니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235758&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-07-18)
 
@@ -26,6 +29,3 @@
 
 * **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (8차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235526&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-16)
-
-* **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (7차)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235463&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-06-09)
