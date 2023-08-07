@@ -1,7 +1,10 @@
 # 미디어학과 최근 공지사항
 
-* **[[정보디자인 수업자료 제작 아르바이트 모집]](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235972&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-07-24)
+* **[2023학년 8월 학위수여일및 학위가운 대여 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236293&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [졸업] - 소프트웨어융합대학교학팀 (~2023-08-26)
+
+* **[[정보디자인 수업자료 제작 아르바이트 모집] 모집완료](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235972&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-07-14)
 
 * **[[SW중심대학] K-SW스퀘어 겨울방학 교육생 모집 안내(~7/24, 오전 10시까지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235969&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-07-24)
@@ -26,6 +29,3 @@
 
 * **[[경기콘텐츠진흥원] 2023년 문화기술 아카데미 전문가 과정 교육생 모집](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235649&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-06-28)
-
-* **[2023하계 미디어현장실습 회사정보 - 학생모집 안내 (마지막)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235588&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-06-20)
