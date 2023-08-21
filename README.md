@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[[SW중심대학] 2023 인턴십 참여 경험 에세이 공모전 참가안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236456&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-08-21)
+
 * **[융복합의료제품 촉진지원센터에서 함께 일할 학생연구원을 모집합니다.](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236443&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-09-01)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] 구글 코리아 &#x27;AI Week&#x27; 행사 사전 등록 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235961&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-07-15)
-
-* **[&#x27;제10회 박카스 29초영화제&#x27;가 개최되었습니다!](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235945&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-08-17)
