@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023 경기 메타버스 해커톤](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236528&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-09-06)
+
 * **[[SW중심대학] 2023 인턴십 참여 경험 에세이 공모전 참가안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236456&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-08-21)
 
@@ -26,6 +29,3 @@
 
 * **[[SW중심대학] K-SW스퀘어 겨울방학 교육생 모집 안내(~7/24, 오전 10시까지)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235969&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-07-24)
-
-* **[[SW중심대학] 구글 코리아 &#x27;AI Week&#x27; 행사 사전 등록 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=235961&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-07-15)
