@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[2023-2학기 수업에 필요한 어도비 프로그램 사용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236794&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-12-31)
+
 * **[CJ올리브네트웍스 채용설명회 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236741&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [취업] - 소프트웨어융합대학교학팀 (~2023-09-14)
 
@@ -26,6 +29,3 @@
 
 * **[&#x27;Chat GPT 활용법&#x27;에 대해 세미나 무료참가안내 (2023.08.09(수) 20:00시, ZOOM)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236331&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-08-09)
-
-* **[[SW중심대학] 2023-2 코딩트레이너 모집 공고](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236303&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-08-16)
