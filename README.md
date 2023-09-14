@@ -1,5 +1,8 @@
 # 미디어학과 최근 공지사항
 
+* **[(주)쿡앱스 슈퍼루키 챌린지 참여모집 공고 (정규직 전환형 인턴십) - 사업 PM, 마케팅 영상디자인/그래픽디자인](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236839&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
+ [기타] - 소프트웨어융합대학교학팀 (~2023-10-31)
+
 * **[2023-2학기 수업에 필요한 어도비 프로그램 사용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236794&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-12-31)
 
@@ -26,6 +29,3 @@
 
 * **[[제28회 부산국제영화제] 시네필 참가 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236343&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
  [기타] - 소프트웨어융합대학교학팀 (~2023-09-06)
-
-* **[&#x27;Chat GPT 활용법&#x27;에 대해 세미나 무료참가안내 (2023.08.09(수) 20:00시, ZOOM)](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236331&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-08-09)
