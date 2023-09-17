@@ -1,31 +1,8 @@
-# 미디어학과 최근 공지사항
+# 디지털미디어학과 공지사항
 
-* **[(주)쿡앱스 슈퍼루키 챌린지 참여모집 공고 (정규직 전환형 인턴십) - 사업 PM, 마케팅 영상디자인/그래픽디자인](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236839&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-10-31)
+아주대학교 디지털미디어학과 공지사항을 [RSS 2.0 형식](https://www.rssboard.org/rss-specification)으로 제공합니다. 공지사항 데이터는 아주대학교 디지털미디어학과 홈페이지의 [학사행정 > 공지사항](https://media.ajou.ac.kr/media/board/board01.jsp) 페이지를 1시간마다 스크래핑하여 업데이트하고 있습니다.
 
-* **[2023-2학기 수업에 필요한 어도비 프로그램 사용 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236794&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-12-31)
+## License
 
-* **[CJ올리브네트웍스 채용설명회 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236741&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [취업] - 소프트웨어융합대학교학팀 (~2023-09-14)
+This project is licensed under Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-* **[2023 글로벌 인디 게임 제작 경진대회 입상](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236689&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-15)
-
-* **[[SW중심대학] TOPCIT 제20회 정기평가 시행 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236683&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-13)
-
-* **[2023 경기 메타버스 해커톤](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236528&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-06)
-
-* **[[SW중심대학] 2023 인턴십 참여 경험 에세이 공모전 참가안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236456&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-08-21)
-
-* **[융복합의료제품 촉진지원센터에서 함께 일할 학생연구원을 모집합니다.](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236443&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-01)
-
-* **[[SW중심대학] 2023 SW커리어페어 개최에 따른 사전 신청 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236419&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-03)
-
-* **[[제28회 부산국제영화제] 시네필 참가 등록 안내](https://media.ajou.ac.kr/media/board/board01.jsp?mode=view&amp;article_no=236343&amp;board_wrapper=%2Fmedia%2Fboard%2Fboard01.jsp&amp;pager.offset=0&amp;board_no=304)**
- [기타] - 소프트웨어융합대학교학팀 (~2023-09-06)
