@@ -7,7 +7,7 @@ use std::io::Write;
 
 #[derive(Debug)]
 struct Notice {
-    index: u32,
+    index: i32,
     title: String,
     author: String,
     category: String,
@@ -15,10 +15,10 @@ struct Notice {
     expired_at: String,
 }
 
-fn fetch_html(base_url: &str, offset: u8) -> String {
+fn fetch_html(base_url: &str, limit: u8, offset: u8) -> String {
     let url = format!(
-        "{}?mode=list&board_no=304&pager.offset={}",
-        base_url, offset
+        "{}?mode=list&articleLimit={}&article.offset={}",
+        base_url, limit, offset
     );
 
     let res = reqwest::blocking::Client::builder()
@@ -57,20 +57,22 @@ fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
 
 fn parse_html(html: &str, base_url: &str) -> Vec<Notice> {
     let fragment = Html::parse_document(html);
-    let row_selector = Selector::parse("table.list_table > tbody > tr").unwrap();
+    let row_selector = Selector::parse("table.board-table > tbody > tr").unwrap();
 
     fragment
         .select(&row_selector)
         .map(|row| -> Notice {
-            let index_selector = Selector::parse("td:nth-child(1)").unwrap();
-            let category_selector = Selector::parse("td:nth-child(5)").unwrap();
-            let title_selector = Selector::parse("td:nth-child(2)").unwrap();
-            let link_selector = Selector::parse("td:nth-child(2) > a").unwrap();
-            let author_selector = Selector::parse("td:nth-child(7)").unwrap();
-            let expired_at_selector = Selector::parse("td:nth-child(6)").unwrap();
+            let index_selector = Selector::parse("td.b-num-box").unwrap();
+            let category_selector = Selector::parse("td.b-num-box + td").unwrap();
+            let title_selector = Selector::parse("td.b-td-left > div.b-title-box > a").unwrap();
+            let link_selector = Selector::parse("td.b-td-left > div.b-title-box > a").unwrap();
+            let author_selector = Selector::parse("td.b-no-right + td").unwrap();
+            let expired_at_selector = Selector::parse("td.b-no-right + td + td").unwrap();
 
             Notice {
-                index: parse_text(&row, &index_selector).parse::<u32>().unwrap(),
+                index: parse_text(&row, &index_selector)
+                    .parse::<i32>()
+                    .unwrap_or(-1),
                 category: encode_minimal(&parse_text(&row, &category_selector)),
                 title: encode_minimal(&parse_text(&row, &title_selector)),
                 author: encode_minimal(&parse_text(&row, &author_selector)),
@@ -124,14 +126,17 @@ fn compose_md(notices: &[Notice]) -> String {
     let items = notices
         .iter()
         .map(|notice| -> String {
+            let title = if notice.index == -1 {
+                format!("📌 {}", notice.title)
+            } else {
+                notice.title.clone()
+            };
+
             let description = format!(
                 "[{}] - {} (~{})",
                 notice.category, notice.author, notice.expired_at
             );
-            format!(
-                r"* **[{}]({})**\n  {}",
-                notice.title, notice.link, description
-            )
+            format!(r"* **[{}]({})**\n  {}", title, notice.link, description)
         })
         .collect::<Vec<String>>()
         .join(r"\n\n");
@@ -139,7 +144,7 @@ fn compose_md(notices: &[Notice]) -> String {
     format!(r"{}\n\n{}", header, items)
 }
 
-fn compose_commit_message(notices: &[Notice], new_count: u32) -> String {
+fn compose_commit_message(notices: &[Notice], new_count: i32) -> String {
     let header = format!("dist: {}개의 새 공지사항", new_count);
 
     let items = notices
@@ -151,7 +156,7 @@ fn compose_commit_message(notices: &[Notice], new_count: u32) -> String {
     format!("{}\n\n{}", header, items)
 }
 
-fn write_last_index(last_index: u32) {
+fn write_last_index(last_index: i32) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
     let path = format!("{}/last_index", current_dir.display());
@@ -160,24 +165,34 @@ fn write_last_index(last_index: u32) {
 }
 
 fn main() {
-    const BASE_URL: &str = "https://media.ajou.ac.kr/media/board/board01.jsp";
+    const BASE_URL: &str = "https://media.ajou.ac.kr/media/board/notice.do";
     const OFFSET: u8 = 0;
+    const LIMIT: u8 = 30;
 
     let args = env::args().collect::<Vec<String>>();
-    let last_index = args[1].parse::<u32>().unwrap();
+    let last_index = args[1].parse::<i32>().unwrap();
     let mode = args[2]
         .parse::<String>()
         .unwrap_or_else(|_| "xml".to_string());
 
-    let html = fetch_html(BASE_URL, OFFSET);
+    let html = fetch_html(BASE_URL, LIMIT, OFFSET);
     let notices = parse_html(&html, BASE_URL);
-    let latest_index = notices.first().unwrap().index;
+    let latest_index = notices
+        .iter()
+        .filter(|notice| notice.index != -1)
+        .collect::<Vec<_>>()
+        .first()
+        .unwrap()
+        .index;
 
     if last_index != latest_index {
         match mode.as_str() {
             "xml" => println!("{}", compose_xml(&notices)),
             "md" => println!("{}", compose_md(&notices)),
-            "cm" => println!("{}", compose_commit_message(&notices, latest_index - last_index)),
+            "cm" => println!(
+                "{}",
+                compose_commit_message(&notices, latest_index - last_index)
+            ),
             _ => eprintln!("unknown mode '{}'", mode),
         }
 
