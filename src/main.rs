@@ -41,9 +41,7 @@ fn parse_text(row: &ElementRef, selector: &Selector) -> String {
         .map(|datum| datum.trim().replace(['\n', '\t'], ""))
         .filter(|datum| !datum.is_empty())
         .collect::<Vec<_>>()
-        .first()
-        .unwrap_or(&String::from(""))
-        .clone()
+        .join(" ")
 }
 
 fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
